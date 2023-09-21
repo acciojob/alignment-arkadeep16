@@ -4,7 +4,7 @@ table {
 }
 td{
 	padding:1px;
-	border: 1px solid black;
+	border: 1px solid black!important;
 }
 #table-1 {
   margin: 40px 0;
