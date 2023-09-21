@@ -24,7 +24,8 @@ table,td {
   margin: 40px 0;
 }
 #table-2 td {
-  padding: 8px;
+  padding: 1px;
+	border: 1px solid black;
 }
 #table-2 table,
 #table-2 td,
