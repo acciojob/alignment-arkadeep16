@@ -1,6 +1,6 @@
 table {
   border: 1px solid black;
-	
+
 }
 #table-1 {
   margin: 40px 0;
@@ -12,10 +12,10 @@ table {
   border-collapse: collapse;
 }
 
-#t11 {
+/* #t11 {
   text-align: left;
 
-}
+} */
 .center {
   text-align: center;
 }
