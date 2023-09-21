@@ -1,1 +1,46 @@
-/*  your css code here. If applicable */
+table {
+  border: 1px solid black;
+}
+#table-1 {
+  margin: 40px 0;
+}
+#table-1 td,
+#table-1 tr,
+#table-1 table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#t11 {
+  text-align: left;
+}
+#t12 {
+  text-align: center;
+}
+#t13 {
+  text-align: right;
+}
+#table-2 {
+  margin: 40px 0;
+}
+#table-2 td {
+  padding: 8px;
+}
+#table-2 table,
+#table-2 td,
+#table-2 tr {
+  border: 1px solid black;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+#table-3 table,
+#table-3 td,
+#table-3 tr {
+  border: 1px solid black;
+}
+#table-3 td {
+  padding: 10px;
+}
